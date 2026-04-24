@@ -1,9 +1,10 @@
-# hackathon2026
 <div align="center">
   <img src="https://img.shields.io/badge/Hackathon-2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Hackathon">
   <img src="https://img.shields.io/badge/Status-Planning-4ECDC4?style=for-the-badge" alt="Status">
   <br>
   <img src="https://img.shields.io/badge/Team-InnoVortex-1A535C?style=flat-square" alt="Team">
+  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Rust-1.70+-000000?logo=rust&logoColor=white" alt="Rust">
 </div>
 
 <br>
@@ -26,11 +27,11 @@
 
 | Участник | Роль | Контакты |
 | :--- | :--- | :--- |
-| **Руденко Тимур Иванович** | Team Lead / Backend | [GitHub](https://github.com/) • [Telegram](https://t.me/) |
-| **Есипчук Никита Анатольевич** | Frontend Developer | [GitHub](https://github.com/) • [Telegram](https://t.me/) |
-| **Гончаров Андрей Александрович** | Fullstack / DevOps | [GitHub](https://github.com/) • [Telegram](https://t.me/) |
+| **Руденко Тимур Иванович** | Team Lead / Backend (Rust) | [GitHub](https://github.com/Rexilone) • [Telegram](https://t.me/Rexilone) |
+| **Есипчук Никита Анатольевич** | Backend (Python) / Data | [GitHub](https://github.com/) • [Telegram](https://t.me/) |
+| **Гончаров Андрей Александрович** | Frontend / DevOps | [GitHub](https://github.com/) • [Telegram](https://t.me/) |
 | **Беззуб Виолетта Андреевна** | UI/UX Designer | [Behance](https://behance.net/) • [Telegram](https://t.me/) |
-| **Зотов Вадим Сергеевич** | Mobile Developer | [GitHub](https://github.com/) • [Telegram](https://t.me/) |
+| **Зотов Вадим Сергеевич** | Fullstack / Integration | [GitHub](https://github.com/) • [Telegram](https://t.me/) |
 
 ---
 
@@ -41,45 +42,48 @@
 
 ### Решение
 > *Как ваше приложение/сервис помогает решить эту проблему. Что делает вас уникальными?*
+>
+> **Ключевое преимущество:** Сочетание **высокопроизводительного ядра на Rust** (для критических вычислений/обработки данных) и **гибкой логики на Python** (для быстрого прототипирования, ML/AI или скриптов).
 
 ### Ключевые фичи (MVP)
-- [ ] **Фича 1** — краткое описание
-- [ ] **Фича 2** — краткое описание
-- [ ] **Фича 3** — краткое описание
+- [ ] **Фича 1** — краткое описание (на Rust)
+- [ ] **Фича 2** — краткое описание (на Python)
+- [ ] **Фича 3** — краткое описание (интеграция)
 
 > 🚀 **Дорожная карта** (что планируете реализовать во время хакатона):
-> 1. День 1: Настройка окружения, дизайн
-> 2. День 2: Ядро функционала
-> 3. День 3: Интеграция и тесты
+> 1. День 1: Настройка окружения (Rust + Python), дизайн архитектуры
+> 2. День 2: Ядро функционала (Rust) + обвязка (Python)
+> 3. День 3: Интеграция и тесты, сборка
 > 4. День 4: Деплой и презентация
 
 ---
 
 ## 🛠 Технологический стек
 
-<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/></code>
-<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/></code>
-<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/></code>
-<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI"/></code>
-<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/></code>
-<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/></code>
-<!-- Добавьте нужные технологии: Figma, TensorFlow, Swift, Kotlin и т.д. -->
+**Основные технологии:**
+<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" title="Rust"/></code> — высокопроизводительное ядро, обработка данных, backend-сервисы
+<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/></code> — бизнес-логика, AI/ML, скрипты, FastAPI/Django
+<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI"/></code> / <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/actix/actix-original.svg" title="Actix Web"/></code> — API слои
+<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React/Vue"/></code> — фронтенд
+<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/></code> / <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis"/></code> — базы данных и кэширование
+<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/></code> — контейнеризация
 
-**Инструменты**: Git, Notion, Miro, Figma, Postman
+**Инструменты**: Git, Notion, Miro, Figma, Postman, `maturin` (для связки Rust+Python)
 
 ---
 
 ## ⚙️ Установка и запуск (локально)
 
-> ℹ️ Инструкция для членов жюри и разработчиков. Описывайте шаги максимально просто.
+> ℹ️ Инструкция для членов жюри и разработчиков.
 
 ### Требования
-- Python 3.10+ / Node.js 18+ / Docker (нужное подчеркнуть)
-- Git
-- Любой IDE (VS Code, PyCharm)
+- **Rust** (1.70+) — [установить](https://www.rust-lang.org/tools/install)
+- **Python** (3.10+) — [установить](https://www.python.org/downloads/)
+- **Git**
+- **Docker** (опционально)
+- `make` (для удобства, опционально)
 
 ### Шаг 1: Клонирование репозитория
 ```bash
-git clone https://github.com/ваш-ник/название-проекта.git
-cd название-проекта
-
+git clone https://github.com/Rexilone/hackathon2026.git
+cd hackathon2026
