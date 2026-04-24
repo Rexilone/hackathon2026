@@ -59,11 +59,13 @@
 ## 🛠 Технологический стек
 
 **Основные технологии:**
-<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" title="Rust"/></code> — высокопроизводительное ядро, обработка данных, backend-сервисы
-<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/></code> — бизнес-логика, AI/ML, скрипты, FastAPI/Django
-<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/></code> — контейнеризация
+<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" title="Rust"/></code> RUST
 
-**Инструменты**: Git, Notion, Miro, Figma, Postman, `maturin` (для связки Rust+Python)
+<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/></code> Python
+
+<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/></code> docker
+
+**Инструменты**: Git, Python, RUST
 
 ---
 
