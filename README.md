@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/Hackathon-2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Hackathon">
   <img src="https://img.shields.io/badge/Status-Planning-4ECDC4?style=for-the-badge" alt="Status">
   <br>
-  <img src="https://img.shields.io/badge/Team-InnoVortex-1A535C?style=flat-square" alt="Team">
+  <img src="https://img.shields.io/badge/Team-К.И.С.И.-1A535C?style=flat-square" alt="Team">
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Rust-1.70+-000000?logo=rust&logoColor=white" alt="Rust">
 </div>
@@ -12,33 +12,32 @@
 <div align="center">
   <!-- Здесь будет логотип или баннер проекта -->
   <!-- Пример: <img src="assets/logo.png" width="200"> -->
-  <h1 align="center">📦 НАЗВАНИЕ ПРОЕКТА</h1>
+  <h1 align="center">НАЗВАНИЕ ПРОЕКТА</h1>
   <p align="center">
     <strong>Краткий слоган или суть проекта в одно предложение</strong>
   </p>
   <p align="center">
-    <i>Проект создан в рамках хакатона [Название хакатона] — [Даты проведения]</i>
+    <i>Проект создан в рамках хакатона Сюда я вставлю название хакатона — [Даты проведения]</i>
   </p>
 </div>
 
 ---
 
-## 👥 Команда «Название команды»
+## 👥 Команда «К.И.С.И.»
 
 | Участник | Роль | Контакты |
 | :--- | :--- | :--- |
-| **Руденко Тимур Иванович** | Team Lead / Backend (Rust) | [GitHub](https://github.com/Rexilone) • [Telegram](https://t.me/Rexilone) |
-| **Есипчук Никита Анатольевич** | Backend (Python) / Data | [GitHub](https://github.com/) • [Telegram](https://t.me/) |
-| **Гончаров Андрей Александрович** | Frontend / DevOps | [GitHub](https://github.com/) • [Telegram](https://t.me/) |
-| **Беззуб Виолетта Андреевна** | UI/UX Designer | [Behance](https://behance.net/) • [Telegram](https://t.me/) |
-| **Зотов Вадим Сергеевич** | Fullstack / Integration | [GitHub](https://github.com/) • [Telegram](https://t.me/) |
+| **Руденко Тимур Иванович** | Backend (Rust, Python) / UI/UX Designer / Data / Integration | [GitHub](https://github.com/Rexilone) • [Telegram](https://t.me/Rexilone) |
+| **Есипчук Никита Анатольевич** | ну тож чел лол | [GitHub](https://github.com/) • [Telegram](https://t.me/) |
+| **Гончаров Андрей Александрович** | Ну а че ты тож делаешь | [GitHub](https://github.com/) • [Telegram](https://t.me/) |
+| **Беззуб Виолетта Андреевна** | Team Lead | [Behance](https://github.com/) • [Telegram](https://t.me/) |
+| **Зотов Вадим Сергеевич** | Ну чел какой то | [GitHub](https://github.com/) • [Telegram](https://t.me/) |
 
 ---
 
 ## 💡 О проекте
 
 ### Проблема
-> *Опишите, какую проблему решает ваш проект. Почему это важно именно сейчас?*
 
 ### Решение
 > *Как ваше приложение/сервис помогает решить эту проблему. Что делает вас уникальными?*
