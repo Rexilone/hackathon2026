@@ -50,11 +50,9 @@
 - [ ] **Фича 2** — краткое описание (на Python)
 - [ ] **Фича 3** — краткое описание (интеграция)
 
-> 🚀 **Дорожная карта** (что планируете реализовать во время хакатона):
-> 1. День 1: Настройка окружения (Rust + Python), дизайн архитектуры
-> 2. День 2: Ядро функционала (Rust) + обвязка (Python)
-> 3. День 3: Интеграция и тесты, сборка
-> 4. День 4: Деплой и презентация
+> 🚀 **Дорожная карта** 
+> 1. День 1: 
+> 2. День 2: 
 
 ---
 
@@ -63,9 +61,6 @@
 **Основные технологии:**
 <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" title="Rust"/></code> — высокопроизводительное ядро, обработка данных, backend-сервисы
 <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/></code> — бизнес-логика, AI/ML, скрипты, FastAPI/Django
-<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI"/></code> / <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/actix/actix-original.svg" title="Actix Web"/></code> — API слои
-<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React/Vue"/></code> — фронтенд
-<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/></code> / <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis"/></code> — базы данных и кэширование
 <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/></code> — контейнеризация
 
 **Инструменты**: Git, Notion, Miro, Figma, Postman, `maturin` (для связки Rust+Python)
