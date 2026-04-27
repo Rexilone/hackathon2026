@@ -27,11 +27,11 @@
 
 | Участник | Роль | Контакты |
 | :--- | :--- | :--- |
-| **Руденко Тимур Иванович** | fullstack devops | [GitHub](https://github.com/Rexilone) • [Telegram](https://t.me/Rexilone) |
-| **Есипчук Никита Анатольевич** | ну тож чел лол | [GitHub](https://github.com/) • [Telegram](https://t.me/DamnSonic) |
-| **Гончаров Андрей Александрович** | Ну а че ты тож делаешь | [GitHub](https://github.com/) • [Telegram](https://t.me/Beradl) |
-| **Беззуб Виолетта Андреевна** | Team Lead | [github](https://github.com/) • [Telegram](https://t.me/frewqk) |
-| **Зотов Вадим Сергеевич** | Ну чел какой то | [GitHub](https://github.com/) • [Telegram](https://t.me/itsVAD) |
+| **Руденко Тимур Иванович** | rust, qt, python dev / ui.ux desiner / mobile dev (kotlin) | [GitHub](https://github.com/Rexilone) • [Telegram](https://t.me/Rexilone) |
+| **Есипчук Никита Анатольевич** | web developer | [GitHub](https://github.com/) • [Telegram](https://t.me/DamnSonic) |
+| **Гончаров Андрей Александрович** | python developer | [GitHub](https://github.com/) • [Telegram](https://t.me/Beradl) |
+| **Беззуб Виолетта Андреевна** | team Lead | [github](https://github.com/) • [Telegram](https://t.me/frewqk) |
+| **Зотов Вадим Сергеевич** | presentation Designer | [GitHub](https://github.com/) • [Telegram](https://t.me/itsVAD) |
 
 ---
 
@@ -45,9 +45,10 @@
 > **Ключевое преимущество:** Сочетание **высокопроизводительного ядра на Rust** (для критических вычислений/обработки данных) и **гибкой логики на Python** (для быстрого прототипирования, ML/AI или скриптов).
 
 ### Ключевые фичи (MVP)
-- [ ] **Фича 1** — краткое описание (на Rust)
-- [ ] **Фича 2** — краткое описание (на Python)
-- [ ] **Фича 3** — краткое описание (интеграция)
+
+- [ ] **Фича 1** — 
+- [ ] **Фича 2** — 
+- [ ] **Фича 3** — 
 
 > 🚀 **Дорожная карта** 
 > 1. День 1: 
