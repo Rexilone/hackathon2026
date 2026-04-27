@@ -12,12 +12,12 @@
 <div align="center">
   <!-- Здесь будет логотип или баннер проекта -->
   <!-- Пример: <img src="assets/logo.png" width="200"> -->
-  <h1 align="center">НАЗВАНИЕ ПРОЕКТА</h1>
+  <h1 align="center"> НАЗВАНИЕ ПРОЕКТА </h1>
   <p align="center">
-    <strong>Краткий слоган или суть проекта в одно предложение</strong>
+    <strong> описание приложения тута крч краткое </strong>
   </p>
   <p align="center">
-    <i>Проект создан в рамках хакатона Сюда я вставлю название хакатона — [Даты проведения]</i>
+    <i>Проект создан в рамках хакатона "Амурский код" — 28-29 Апреля </i>
   </p>
 </div>
 
@@ -27,11 +27,11 @@
 
 | Участник | Роль | Контакты |
 | :--- | :--- | :--- |
-| **Руденко Тимур Иванович** | Backend (Rust, Python) / UI/UX Designer / Data / Integration | [GitHub](https://github.com/Rexilone) • [Telegram](https://t.me/Rexilone) |
-| **Есипчук Никита Анатольевич** | ну тож чел лол | [GitHub](https://github.com/) • [Telegram](https://t.me/) |
-| **Гончаров Андрей Александрович** | Ну а че ты тож делаешь | [GitHub](https://github.com/) • [Telegram](https://t.me/) |
-| **Беззуб Виолетта Андреевна** | Team Lead | [Behance](https://github.com/) • [Telegram](https://t.me/) |
-| **Зотов Вадим Сергеевич** | Ну чел какой то | [GitHub](https://github.com/) • [Telegram](https://t.me/) |
+| **Руденко Тимур Иванович** | fullstack devops | [GitHub](https://github.com/Rexilone) • [Telegram](https://t.me/Rexilone) |
+| **Есипчук Никита Анатольевич** | ну тож чел лол | [GitHub](https://github.com/) • [Telegram](https://t.me/DamnSonic) |
+| **Гончаров Андрей Александрович** | Ну а че ты тож делаешь | [GitHub](https://github.com/) • [Telegram](https://t.me/Beradl) |
+| **Беззуб Виолетта Андреевна** | Team Lead | [Behance](https://github.com/) • [Telegram](https://t.me/frewqk) |
+| **Зотов Вадим Сергеевич** | Ну чел какой то | [GitHub](https://github.com/) • [Telegram](https://t.me/itsVAD) |
 
 ---
 
@@ -58,6 +58,7 @@
 ## 🛠 Технологический стек
 
 **Основные технологии:**
+
 <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" title="Rust"/></code> RUST
 
 <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/></code> Python
