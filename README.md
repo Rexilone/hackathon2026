@@ -30,7 +30,7 @@
 | **Руденко Тимур Иванович** | fullstack devops | [GitHub](https://github.com/Rexilone) • [Telegram](https://t.me/Rexilone) |
 | **Есипчук Никита Анатольевич** | ну тож чел лол | [GitHub](https://github.com/) • [Telegram](https://t.me/DamnSonic) |
 | **Гончаров Андрей Александрович** | Ну а че ты тож делаешь | [GitHub](https://github.com/) • [Telegram](https://t.me/Beradl) |
-| **Беззуб Виолетта Андреевна** | Team Lead | [Behance](https://github.com/) • [Telegram](https://t.me/frewqk) |
+| **Беззуб Виолетта Андреевна** | Team Lead | [github](https://github.com/) • [Telegram](https://t.me/frewqk) |
 | **Зотов Вадим Сергеевич** | Ну чел какой то | [GitHub](https://github.com/) • [Telegram](https://t.me/itsVAD) |
 
 ---
