@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Hackathon-2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Hackathon">
-  <img src="https://img.shields.io/badge/Status-Planning-4ECDC4?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Status-Coding-4ECDC4?style=for-the-badge" alt="Status">
   <br>
   <img src="https://img.shields.io/badge/Team-К.И.С.И.-1A535C?style=flat-square" alt="Team">
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white" alt="Python">
@@ -46,13 +46,8 @@
 
 ### Ключевые фичи (MVP)
 
-- [ ] **Фича 1** — 
+- [ ] **Фича 1** — Hybrid LLM Mode: автоматическое переключение на локальную модель при обрыве интернет-соединения.
 - [ ] **Фича 2** — 
-- [ ] **Фича 3** — 
-
-> 🚀 **Дорожная карта** 
-> 1. День 1: 
-> 2. День 2: 
 
 ---
 
@@ -79,7 +74,6 @@
 - **Python** (3.10+) — [установить](https://www.python.org/downloads/)
 - **Git**
 - **Docker** (опционально)
-- `make` (для удобства, опционально)
 
 ### Шаг 1: Клонирование репозитория
 ```bash
